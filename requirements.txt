@@ -1,0 +1,9 @@
+Flask==2.2.3
+MarkupSafe==2.1.2
+werkzeug==2.2.3
+itsdangerous==2.1.2
+psutil==5.9.5
+plotly==5.17.0
+tenacity==8.0.1
+boto3==1.28.53
+kubernetes==28.1.0
